@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Slavidis Thanasis
+### University Registration Number: dpsd19120
+### GitHub Personal Profile: https://github.com/ThanosSl
+### Digital-Storytelling-Individual-Assignment: https://github.com/ThanosSl/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
