@@ -6,7 +6,7 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/ThanosSl/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-
+Αυτή η εργασία αφορά στην δημιουργία τριών animation, με διαφορετικό περιεχόμενο το κάθε ένα, όσων αφορά το πεειβάλλον και τα αντικείμενα σε αυτό καθαυτό.
 
 
 # Summary
