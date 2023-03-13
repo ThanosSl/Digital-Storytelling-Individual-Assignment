@@ -14,7 +14,7 @@
 
 
 # 1st Deliverable
-* Αρχικά, χρησιμοποιήθηκε ως backround το ήδη υπάρχων, του μαθήματος και προστέθηκε ένα περιβάλλον με κτήρια, έδαφος και μια διασταύρωση δρόμου, με όλα τα στοιχεία να φαίνονται παρακάτω στη φωτογραφία:
+* Αρχικά, για το πρώτο υποπαραδοτέο του πρώτου παραδοτέου, χρησιμοποιήθηκε ως backround το ήδη υπάρχων, του μαθήματος και προστέθηκε ένα περιβάλλον με κτήρια, έδαφος και μια διασταύρωση δρόμου, με όλα τα στοιχεία να φαίνονται παρακάτω στη φωτογραφία:
 ![Screenshot_1](https://user-images.githubusercontent.com/100956202/224790861-521f36dd-480d-4481-86c4-b1fc4bba62de.png)
 
 * Έπειτα έγινε προσθήκη ενός timeline, ως αντικείμενο για να δημιουργήσουμε το animation. Μέσα σε αυτό προστέθηκε το recorder track-recorder clip, για το record και η κάμερα που θα γίνει η καταγραφή της σκηνής.
@@ -25,6 +25,15 @@
 ![Screenshot_4](https://user-images.githubusercontent.com/100956202/224791007-38ae65f1-8812-4ff8-ab4f-67644e8266a3.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/100956202/224791071-2db15b98-d68d-4163-902e-7882a515b0bd.png)
 
+* Για το δεύτερο υποπαραδοτέο του πρώτου παραδοτέου, αρχικά βλέπουμε τα προστιθέμενα αντικείμενα στην σκηνή, την κοπέλα ανάμεσα από το αυτοκίνητο και το προστιθέμενο hover bike, αλλά και το lollipop στο πεζοδρόμιο, με probuilder.
+![Screenshot_6](https://user-images.githubusercontent.com/100956202/224796124-54fc639b-111d-4639-9fbb-5f8dce769ff6.png)
+![Screenshot_9](https://user-images.githubusercontent.com/100956202/224796164-2a7051da-3bdf-4da1-a311-0f688eb54938.png)
+
+* Εδώ βλέπουμε τα αντικείμενα που θα γίνουν record, στο Master Timeline:
+![Screenshot_7](https://user-images.githubusercontent.com/100956202/224796136-29c252e6-3596-44ca-9ee7-c4af3df8e4e3.png)
+
+* Εδώ, την ένταξη του recorder clip, για την εξαγωγή ως mp4 αρχείο-animation:
+![Screenshot_8](https://user-images.githubusercontent.com/100956202/224796151-916d49ba-6713-407f-90cf-2af31febc88c.png)
 
 # 2nd Deliverable
 
