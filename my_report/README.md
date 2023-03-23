@@ -39,10 +39,10 @@
 ![Screenshot_10](https://user-images.githubusercontent.com/100956202/227047570-0d3c1147-b644-4030-ac73-6185d7ee7a8f.png)
 ![Screenshot_11](https://user-images.githubusercontent.com/100956202/227047662-99ae0972-650c-4e99-aba1-605ca858a5ce.png)
 
-και το μικρό μαχητικό σκάφος: 
+* και το μικρό μαχητικό σκάφος: 
 ![Screenshot_12](https://user-images.githubusercontent.com/100956202/227048242-3c6aaf51-7636-47a0-81c4-a951e10bc24c.png)
 
-καταλήγοντας στα timelines, της κάμερας, των άλλων αντικειμένων και του recorder track, με τη σειρά που φαίνονται:
+* καταλήγοντας στα timelines, της κάμερας, των άλλων αντικειμένων και του recorder track, με τη σειρά που φαίνονται:
 ![Screenshot_13](https://user-images.githubusercontent.com/100956202/227048259-e9565311-26c1-422b-a201-67153c3604c6.png)
 ![Screenshot_14](https://user-images.githubusercontent.com/100956202/227048265-2ab4ed9a-d4d5-4bc3-9c6c-a5ee607a7e74.png)
 
