@@ -27,7 +27,8 @@
 
 
 * Και εδώ είναι το βίντεο-animation: 
-https://user-images.githubusercontent.com/100956202/228595803-35c386ba-4047-4538-82c4-bbd1a856ce87.mp4
+ 
+ https://user-images.githubusercontent.com/100956202/228595803-35c386ba-4047-4538-82c4-bbd1a856ce87.mp4
 
 
 * Για το δεύτερο υποπαραδοτέο του πρώτου παραδοτέου, αρχικά βλέπουμε τα προστιθέμενα αντικείμενα στην σκηνή, την κοπέλα ανάμεσα από το αυτοκίνητο και το προστιθέμενο hover bike, αλλά και το lollipop στο πεζοδρόμιο, με probuilder.
@@ -42,7 +43,8 @@ https://user-images.githubusercontent.com/100956202/228595803-35c386ba-4047-4538
 
 
 * Και εδώ το βίντεο του 2ου υποπαραδοτέου:
-https://user-images.githubusercontent.com/100956202/228596091-80f27628-1be5-4b84-8250-0a51146a6b8c.mp4
+ 
+ https://user-images.githubusercontent.com/100956202/228596091-80f27628-1be5-4b84-8250-0a51146a6b8c.mp4
 
 
 * Και τέλος, έχουμε το 3ο υποπαραδοτέο, με ένα animation διάρκειας 10-20 δευτερολέπτων, που αρχικά βλέπουμε τα αντικείμενα της σκηνής ένα-ένα , με τα δύο ρομπότ: 
@@ -58,7 +60,8 @@ https://user-images.githubusercontent.com/100956202/228596091-80f27628-1be5-4b84
 
 
 * Τέλος, το βίντεο του 3ου υποπαραδοτέου: 
-https://user-images.githubusercontent.com/100956202/228596363-2423e72f-85df-4dd1-99b7-ec4cf40f7a13.mp4
+ 
+ https://user-images.githubusercontent.com/100956202/228596363-2423e72f-85df-4dd1-99b7-ec4cf40f7a13.mp4
 
 
 # 2nd Deliverable
