@@ -25,6 +25,11 @@
 ![Screenshot_4](https://user-images.githubusercontent.com/100956202/224791007-38ae65f1-8812-4ff8-ab4f-67644e8266a3.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/100956202/224791071-2db15b98-d68d-4163-902e-7882a515b0bd.png)
 
+
+* Και εδώ είναι το βίντεο-animation: 
+https://user-images.githubusercontent.com/100956202/228595803-35c386ba-4047-4538-82c4-bbd1a856ce87.mp4
+
+
 * Για το δεύτερο υποπαραδοτέο του πρώτου παραδοτέου, αρχικά βλέπουμε τα προστιθέμενα αντικείμενα στην σκηνή, την κοπέλα ανάμεσα από το αυτοκίνητο και το προστιθέμενο hover bike, αλλά και το lollipop στο πεζοδρόμιο, με probuilder.
 ![Screenshot_6](https://user-images.githubusercontent.com/100956202/224796124-54fc639b-111d-4639-9fbb-5f8dce769ff6.png)
 ![Screenshot_9](https://user-images.githubusercontent.com/100956202/224796164-2a7051da-3bdf-4da1-a311-0f688eb54938.png)
@@ -34,6 +39,11 @@
 
 * Εδώ, την ένταξη του recorder clip, για την εξαγωγή ως mp4 αρχείο-animation:
 ![Screenshot_8](https://user-images.githubusercontent.com/100956202/224796151-916d49ba-6713-407f-90cf-2af31febc88c.png)
+
+
+* Και εδώ το βίντεο του 2ου υποπαραδοτέου:
+https://user-images.githubusercontent.com/100956202/228596091-80f27628-1be5-4b84-8250-0a51146a6b8c.mp4
+
 
 * Και τέλος, έχουμε το 3ο υποπαραδοτέο, με ένα animation διάρκειας 10-20 δευτερολέπτων, που αρχικά βλέπουμε τα αντικείμενα της σκηνής ένα-ένα , με τα δύο ρομπότ: 
 ![Screenshot_10](https://user-images.githubusercontent.com/100956202/227047570-0d3c1147-b644-4030-ac73-6185d7ee7a8f.png)
@@ -45,6 +55,10 @@
 * Kαταλήγοντας στα timelines, της κάμερας, των άλλων αντικειμένων και του recorder track, με τη σειρά που φαίνονται παρακάτω:
 ![Screenshot_13](https://user-images.githubusercontent.com/100956202/227048259-e9565311-26c1-422b-a201-67153c3604c6.png)
 ![Screenshot_14](https://user-images.githubusercontent.com/100956202/227048265-2ab4ed9a-d4d5-4bc3-9c6c-a5ee607a7e74.png)
+
+
+* Τέλος, το βίντεο του 3ου υποπαραδοτέου: 
+https://user-images.githubusercontent.com/100956202/228596363-2423e72f-85df-4dd1-99b7-ec4cf40f7a13.mp4
 
 
 # 2nd Deliverable
