@@ -65,6 +65,51 @@
 
 
 # 2nd Deliverable
+* Αρχικά, για το πρώτο creative challenge του unit 5, τοποθετούμε τις κάμερες στη σκηνή για ομαλές εναλλαγές στο animation. Ξεκινάμε λοιπόν, με τις κάμερες στην ιεραρχία: 
+![Screenshot_1](https://user-images.githubusercontent.com/100956202/236638269-b774fed1-a7b1-40ed-af21-406dac177df7.png)
+
+* Και μετά βλέπουμε τα animation της main cameras και των cinemachines, στο timeline:
+![Screenshot_2](https://user-images.githubusercontent.com/100956202/236638355-544c4eef-99c6-4ea9-95e4-f5eca1faa4ff.png)
+
+* Τέλος, το συνολικό animation φαίνεται παρακάτω:
+
+https://user-images.githubusercontent.com/100956202/236638496-f4083c0c-04aa-4653-a620-1ba36a9fed33.mp4
+
+* Στο δεύτερο υποπαραδοτέο, έχουμε την προσθήκη των visual effects, ξεκινώντας από την ιεραρχία:
+![Screenshot 2023-05-03 151444](https://user-images.githubusercontent.com/100956202/236638577-a65bf512-1b79-4d54-94a1-6e061abb4160.png)
+
+* Και συνεχίζουμε, με τα adjustments στα εφέ γενικώς και στην vcam1 και vcam2:
+![Screenshot 2023-05-03 151545](https://user-images.githubusercontent.com/100956202/236638607-094c7621-f675-4fb6-9384-deb355eb791c.png)
+![Screenshot 2023-05-03 151631](https://user-images.githubusercontent.com/100956202/236638612-3c5ffacd-4cca-4823-88ac-82f7124d4b6f.png)
+![Screenshot 2023-05-03 151833](https://user-images.githubusercontent.com/100956202/236638621-bd25477d-e216-4b29-81bc-84658f6c74c2.png)
+![Screenshot_17](https://user-images.githubusercontent.com/100956202/236638640-2afcfbc6-6b4a-4035-bbdc-794b84de8713.png)
+![Screenshot_19](https://user-images.githubusercontent.com/100956202/236638665-03b3c371-a75b-432f-aa04-a2ceaaf63832.png)
+
+* Στη συνέχεια, έχουμε τις αλλαγές και τις προσθήκες στο timeline:
+![Screenshot 2023-05-03 151654](https://user-images.githubusercontent.com/100956202/236638689-e12fb8f8-098b-4928-a098-4000affaa2a4.png)
+![Screenshot 2023-05-03 151721](https://user-images.githubusercontent.com/100956202/236638695-494d8799-58e8-4bce-8bb6-1347cc9202e6.png)
+![Screenshot 2023-05-03 151747](https://user-images.githubusercontent.com/100956202/236638707-3f635274-939a-4d62-bb12-2eef1854532e.png)
+![Screenshot_16](https://user-images.githubusercontent.com/100956202/236638721-ff4a318a-00d6-4714-8d71-3631e33c58ef.png)
+![Screenshot_18](https://user-images.githubusercontent.com/100956202/236638723-df113535-e1ad-4349-b34d-f1de9658340f.png)
+
+* Τέλος, το αποτέλεσμα με τις αλλαγές παραπάνω φαίνεται εδώ:
+
+https://user-images.githubusercontent.com/100956202/236638884-1588462a-e45f-482a-96be-aee9c84c0c71.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/100956202/236637891-96db35e4-bfc2-4d77-94a8-99348cc84b0e.mp4
+
 
 
 # 3rd Deliverable 
