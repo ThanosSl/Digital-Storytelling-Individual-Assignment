@@ -104,6 +104,27 @@ https://user-images.githubusercontent.com/100956202/236638496-f4083c0c-04aa-4653
 
 https://user-images.githubusercontent.com/100956202/236638884-1588462a-e45f-482a-96be-aee9c84c0c71.mp4
 
+* Στο 3ο παραδοτέο, έχουμε προσθήκη μερικών ακόμα εφέ και ήχων (μουσικής, ηχητικά εφέ του σκύλου και της γάτας):
+
+![Screenshot_4](https://user-images.githubusercontent.com/100956202/236640813-41f62680-191b-4211-a846-f5176f0fc0c6.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/100956202/236640795-eed7826a-7fe6-416b-863f-e5c608fdc7aa.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/100956202/236640798-0d733e67-e01f-4ad9-b818-5acebc0828d0.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/100956202/236640806-6b78b5bd-7593-455d-a33a-812f60c93bef.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/100956202/236640821-e0dc349f-cf60-4d45-92b4-66caaf7c419f.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/100956202/236640825-ef0e71f6-32d4-4543-9398-b5e49eb9b518.png)
+
+![Screenshot_7](https://user-images.githubusercontent.com/100956202/236640828-dc469e57-c188-4e66-b27e-514c2030ad8d.png)
+
+![Screenshot_15](https://user-images.githubusercontent.com/100956202/236640833-60715f13-28c2-40e8-85dc-74f7d9615ddf.png)
+
+* Με το τελικό αποτέλεσμα να αποτυπώνεται στο βίντεο:
+
+https://user-images.githubusercontent.com/100956202/236640936-8d978da7-7a41-442d-a4c0-d73daa9d0c89.mp4
 
 
 
