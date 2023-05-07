@@ -66,6 +66,7 @@
 
 # 2nd Deliverable
 * Αρχικά, για το πρώτο creative challenge του unit 5, τοποθετούμε τις κάμερες στη σκηνή για ομαλές εναλλαγές στο animation. Ξεκινάμε λοιπόν, με τις κάμερες στην ιεραρχία: 
+
 ![Screenshot_1](https://user-images.githubusercontent.com/100956202/236638269-b774fed1-a7b1-40ed-af21-406dac177df7.png)
 
 * Και μετά βλέπουμε τα animation της main cameras και των cinemachines, στο timeline:
